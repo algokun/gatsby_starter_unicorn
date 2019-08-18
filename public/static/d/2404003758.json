@@ -1,0 +1,1 @@
+{"data":{"allMdxBlogPost":{"edges":[{"node":{"title":"Demo Post 1","tableOfContents":{}}},{"node":{"title":"Hello World (example)","tableOfContents":{"items":[{"url":"#this-is-a-secondary-heading","title":"This is a secondary heading"}]}}},{"node":{"title":"My Second Post! (example)","tableOfContents":{}}}]}}}

@@ -1,0 +1,16 @@
+{
+  "name": "example_site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.67",
+    "gatsby_theme_unicorn": "^1.0.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
