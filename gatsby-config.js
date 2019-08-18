@@ -17,9 +17,6 @@ module.exports = {
   plugins: [
     {
       resolve: "gatsby_theme_unicorn",
-      options: {
-        basePath: `/blog`
-      }
     }
   ]
 };
