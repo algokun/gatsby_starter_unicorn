@@ -9,6 +9,10 @@
 
 A Gatsby theme for creating a blog with awesome typography.
 
+## Demo
+[Site Demo](https://gatsby-starter-unicorn.netlify.com/)
+[Theme](https://github.com/mohanmonu777/gatsby_theme_unicorn)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
